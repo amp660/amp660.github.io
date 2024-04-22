@@ -72,8 +72,8 @@
         <section id="other-links">
             <h2>Other Links</h2>
             <ul>
-                <li><a href="https://github.com/yourusername">GitHub</a></li>
-                <li><a href="https://linkedin.com/in/yourprofile">LinkedIn</a></li>
+                <li><a href="https://github.com/amp660">GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/aphans/">LinkedIn</a></li>
                 <!-- Add more links to your social media profiles, personal blog, etc. -->
             </ul>
         </section>
