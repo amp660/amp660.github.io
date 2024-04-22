@@ -1,4 +1,3 @@
-# amp660.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,6 +59,26 @@
                 <!-- Add any additional details about your education -->
             </div>
             <!-- Add more education sections as needed -->
+        </section>
+
+        <section id="certifications">
+            <h2>Certifications</h2>
+            <div class="certification">
+                <h3>Certification Name</h3>
+                <p>Issuing Organization</p>
+                <p>Date Earned</p>
+                <!-- Add any additional details about your certification -->
+            </div>
+            <!-- Add more certification sections as needed -->
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Skill 1</li>
+                <li>Skill 2</li>
+                <!-- Add more skills as needed -->
+            </ul>
         </section>
 
         <section id="other-links">
