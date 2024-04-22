@@ -10,14 +10,6 @@
 <body>
     <header>
         <h1>Your Name</h1>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/portfolio">Portfolio</a></li>
-                <li><a href="/about">About</a></li>
-                <!-- Add other links as needed -->
-            </ul>
-        </nav>
     </header>
 
     <main>
