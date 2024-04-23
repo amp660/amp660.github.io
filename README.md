@@ -28,6 +28,9 @@
             <h2>Work Experience</h2>
             <div class="experience">
                 <h3>Data Analyst</h3>
+                <div class="company-logo">
+                  <img src="accenture_logo.png" alt="Accenture Logo">
+                </div>
                 <h4>Accenture</h4>
                 <p>10/2019 -> 08/2023</p>
                 <ul>
