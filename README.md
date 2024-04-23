@@ -27,11 +27,25 @@
         <section id="work-experience">
             <h2>Work Experience</h2>
             <div class="experience">
-                <h3>Job Title</h3>
-                <p>Company Name</p>
-                <p>Date Range</p>
+                <h3>Data Analyst</h3>
+                <p>Accenture</p>
+                <p>10/2019 -> 08/2023</p>
                 <ul>
-                    <li>Description of responsibilities and achievements</li>
+                    <li>
+•Designed and implemented 5 complex data pipelines to facilitate efficient information exchange between banks and stakeholders,
+ utilizing ETL tools such as Rundeck, Syncsort, Spark, Hadoop, Hive, and GCP Airflow
+
+•Collaborated with a vendor to improve the efficiency of credit card adjudication processes by implementing AI/ML solutions, resulting
+ in a 10% enhancement in accuracy and speed
+
+•Developed 10 Key Performance Indicator (KPI) dashboards using Tableau, Grafana, and Kibana, achieving a 30% reduction in SLA
+ breaches within 3 months
+
+•Implemented over 10 data patches using Artifactory, leading to a 20% decrease in customer issues and an improvement in product
+ quality
+
+•Enhanced the performance of more than 15 database queries by 40% through strategic optimization techniques such as indexing and
+ query restructuring, thereby improving overall system efficiency and responsiveness</li>
                     <!-- Add more bullet points as needed -->
                 </ul>
             </div>
