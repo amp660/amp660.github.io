@@ -28,7 +28,7 @@
             <h2>Work Experience</h2>
             <div class="experience">
                 <h3>Data Analyst</h3>
-                <p>Accenture</p>
+                <h4>Accenture</h4>
                 <p>10/2019 -> 08/2023</p>
                 <ul>
                     <li>Designed and implemented 5 complex data pipelines to facilitate efficient information exchange between banks and stakeholders,
