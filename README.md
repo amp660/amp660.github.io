@@ -29,7 +29,7 @@
             <div class="experience">
                 <h3>Data Analyst</h3>
                 <div class="company-logo">
-                  <img src="https://private-user-images.githubusercontent.com/167663308/324680790-9a6f7e23-d08b-4462-a8ee-5acb8b6cd5ba.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM4NDQ1NjksIm5iZiI6MTcxMzg0NDI2OSwicGF0aCI6Ii8xNjc2NjMzMDgvMzI0NjgwNzkwLTlhNmY3ZTIzLWQwOGItNDQ2Mi1hOGVlLTVhY2I4YjZjZDViYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyM1QwMzUxMDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MWE1YTdjNmU0M2YyOTZlYjA4N2JkYmEyMmMyYjFkZjc2Zjk0Zjg5MWFiMWQ2NTU1MTk1MWI1NGZhNzViOTQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._B8ca1KsbQo27d-VPW6Zv9L3M69X_ut8f5xJg_G1Pl8" alt="Accenture Logo">
+                  <img src="https://logos-world.net/wp-content/uploads/2020/06/Accenture-Emblem.png" alt="Accenture Logo">
                 </div>
                 <h4>Accenture</h4>
                 <p>10/2019 -> 08/2023</p>
